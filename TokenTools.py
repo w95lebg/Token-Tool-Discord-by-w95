@@ -1,7 +1,7 @@
 #TokenTools
 #Made by: w95#0095
 #Youtube: Saabey
-#Discord server: https://discord.gg/sTV3G4CTpG
+#Discord server: add friends = w95#0095
 import random
 import string
 import pathlib
